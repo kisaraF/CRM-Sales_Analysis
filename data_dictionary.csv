@@ -1,0 +1,11 @@
+accounts,,,,,,,,,sales_teams,,,,
+account,sector,year_established,revenue,employees,office_location,subsidiary_of,,,sales_agent,manager,regional_office,,
+,,,,,,,,,,,,,
+products,,,,,,sales_pipeline,,,,,,,
+product,series,sales_price,,,,opportunity_id,sales_agent,product,account,deal_stage,engage_date,close_date,close_value
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,Relationship,,,,,,
+,,,,,,,sales_teams,sales_pipeline,,,,,
+,,,,,,,products,sales_pipeline,,,,,
+,,,,,,,accounts,sales_pipeline,,,,,
