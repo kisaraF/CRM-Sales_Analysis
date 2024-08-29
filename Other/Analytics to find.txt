@@ -1,0 +1,38 @@
+The following Insights were derived:
+
+Insights from Accounts Table:
+
+01. How Many Subsidiary Companies For Each Parent Compan
+02. Top 10 companies with most employees
+03. Top 10 companies with highest Revenues
+04. Companies with the highest HR-Revenue Efficiency
+05. Location Distribution of Each Company
+06. Breaking Down Subsidiary Companies By Location
+07. Frequency Distribution of Companies Established in Each Year
+
+Discussion #1: Does a Higher Employee Count = Higher Revenues?
+Discussion #2: Do companies with higher number of employees and revenues have a higher HR-Revenue efficiency?
+
+
+
+Insights from Products Table:
+
+01. Breaking Down Product Series Price Ranges
+
+
+Insights from Sales Pipeline Table:
+
+01. Sales Agent Win Rate
+02. How much Revenue did each Agent derived?
+03. What products do each agent specialize in
+04. Impact of Product Series to Win Rate
+05. Average time it takes to close a product type
+06. Average time it takes to close by sales person
+
+Discussion #1: Does having more wins as a total = more revenue derived?
+Discussion #2: Does a higher Win Rate = Higher Revenue?
+
+
+Insights from Sales Teams Table:
+
+Manager Effectiveness: By Overall Team Success Rate & Win Rate

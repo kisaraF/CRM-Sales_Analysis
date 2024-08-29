@@ -1,2 +1,0 @@
-01. A master view of each agent's performance: total deals, wins, loses, w/l ratio, avg_sales_close_time, avg_close_value, ttl_rev
-- This way I can see correlations between w/l, average sales and ttl_rev. Moreover, between average value and avg_deal_close_time to see if they rush through to get the sale, etc.
