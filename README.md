@@ -68,7 +68,11 @@
 The following discussions are included in the notebook. These discussions are concluded using the insights derived during the above analysis process and using some additional, supplemnetary analytic metrics developed.
 
 Discussion #1: Does a Higher Employee Count = Higher Revenues?
+
 Discussion #2: Do companies with higher number of employees and revenues have a higher HR-Revenue efficiency?
+
 Discussion #3: Does having more wins as a total = more revenue derived?
+
 Discussion #4: Does a higher Win Rate = Higher Revenue?
+
 Discussion #5: Impact of Product Series to Win Rate
